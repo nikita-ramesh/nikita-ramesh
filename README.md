@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikita-ramesh
-- 🌱 I’m currently learning computing and management science
+- 🌱 I’m currently learning computing and management science at Edinburgh University
 - 📫 How to reach me https://linkedin.com/in/nikita-ramesh-3b8194223/
 
 <!---
