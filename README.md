@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikita-ramesh
 - 🌱 I’m currently learning computing and management science
-- 📫 How to reach me linkedin.com/in/nikita-ramesh-3b8194223/
+- 📫 How to reach me https://linkedin.com/in/nikita-ramesh-3b8194223/
 
 <!---
 nikita-ramesh/nikita-ramesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
