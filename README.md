@@ -2,7 +2,7 @@
 *📷 Calton Hill, Edinburgh, Scotland*
 
 - 👋 Hi, I’m @nikita-ramesh
-- 🌱 I’m currently learning computing and management science at Edinburgh University
+- 🌱 I’m currently learning computing science at Edinburgh University
 - 📫 How to reach me https://linkedin.com/in/nikita-rameshkumar-3b8194223/
 
 <!---
